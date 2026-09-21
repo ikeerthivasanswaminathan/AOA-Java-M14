@@ -1,6 +1,6 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
 
-## DATE:22/09/25
+## DATE: 11/08/2026
 
 ## AIM:
 To Write a Java program to solve the below problem using Kadane's Algorithm. A solar company installs solar panels around a circular grid of n buildings. Each building either generates or consumes net energy, represented by integers (+ve for generated, -ve for consumed). The company wants to find a contiguous sequence of buildings (possibly wrapping around from the end to the beginning) that maximizes the total net energy. Write a program to compute the maximum net energy that can be collected from any contiguous block of buildings on the circular grid.
